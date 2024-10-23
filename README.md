@@ -9,6 +9,7 @@ Faculty Management: Assign faculty to courses, manage their profiles, and track 
 Enrollment System: Allow students to register for courses and manage their schedules.
 Reporting: Generate reports on student performance, course statistics, and faculty assignments.
 User Authentication: Secure access for students, faculty, and administrators with role-based permissions.
+
 Technologies Used
 Programming Language: Java
 Database: MySQL (or any preferred relational database)
